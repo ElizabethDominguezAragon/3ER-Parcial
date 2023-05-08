@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\GenerarNumerosAleatorios\GenerarNumerosAleatorios\obj\Debug\GenerarNumerosAleatorios.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\GenerarNumerosAleatorios\GenerarNumerosAleatorios\obj\Debug\GenerarNumerosAleatorios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\GenerarNumerosAleatorios\GenerarNumerosAleatorios\obj\Debug\GenerarNumerosAleatorios.GenerarNumeros.resources
+C:\Users\Alumno\source\repos\GenerarNumerosAleatorios\GenerarNumerosAleatorios\obj\Debug\GenerarNumerosAleatorios.Properties.Resources.resources
+C:\Users\Alumno\source\repos\GenerarNumerosAleatorios\GenerarNumerosAleatorios\obj\Debug\GenerarNumerosAleatorios.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\GenerarNumerosAleatorios\GenerarNumerosAleatorios\obj\Debug\GenerarNumerosAleatorios.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\GenerarNumerosAleatorios\GenerarNumerosAleatorios\bin\Debug\GenerarNumerosAleatorios.exe.config
+C:\Users\Alumno\source\repos\GenerarNumerosAleatorios\GenerarNumerosAleatorios\bin\Debug\GenerarNumerosAleatorios.exe
+C:\Users\Alumno\source\repos\GenerarNumerosAleatorios\GenerarNumerosAleatorios\bin\Debug\GenerarNumerosAleatorios.pdb
+C:\Users\Alumno\source\repos\GenerarNumerosAleatorios\GenerarNumerosAleatorios\obj\Debug\GenerarNumerosAleatorios.exe
+C:\Users\Alumno\source\repos\GenerarNumerosAleatorios\GenerarNumerosAleatorios\obj\Debug\GenerarNumerosAleatorios.pdb
