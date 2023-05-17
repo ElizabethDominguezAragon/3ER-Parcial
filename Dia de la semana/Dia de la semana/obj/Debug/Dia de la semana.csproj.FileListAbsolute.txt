@@ -1,0 +1,11 @@
+C:\Users\karla\source\repos\Dia de la semana\Dia de la semana\bin\Debug\Dia de la semana.exe.config
+C:\Users\karla\source\repos\Dia de la semana\Dia de la semana\bin\Debug\Dia de la semana.exe
+C:\Users\karla\source\repos\Dia de la semana\Dia de la semana\bin\Debug\Dia de la semana.pdb
+C:\Users\karla\source\repos\Dia de la semana\Dia de la semana\obj\Debug\Dia de la semana.csproj.AssemblyReference.cache
+C:\Users\karla\source\repos\Dia de la semana\Dia de la semana\obj\Debug\Dia de la semana.csproj.SuggestedBindingRedirects.cache
+C:\Users\karla\source\repos\Dia de la semana\Dia de la semana\obj\Debug\Dia_de_la_semana.Form1.resources
+C:\Users\karla\source\repos\Dia de la semana\Dia de la semana\obj\Debug\Dia_de_la_semana.Properties.Resources.resources
+C:\Users\karla\source\repos\Dia de la semana\Dia de la semana\obj\Debug\Dia de la semana.csproj.GenerateResource.cache
+C:\Users\karla\source\repos\Dia de la semana\Dia de la semana\obj\Debug\Dia de la semana.csproj.CoreCompileInputs.cache
+C:\Users\karla\source\repos\Dia de la semana\Dia de la semana\obj\Debug\Dia de la semana.exe
+C:\Users\karla\source\repos\Dia de la semana\Dia de la semana\obj\Debug\Dia de la semana.pdb

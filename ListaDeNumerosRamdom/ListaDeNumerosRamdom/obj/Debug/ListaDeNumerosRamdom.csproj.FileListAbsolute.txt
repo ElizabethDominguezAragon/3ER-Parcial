@@ -1,0 +1,11 @@
+C:\Users\karla\source\repos\ListaDeNumerosRamdom\ListaDeNumerosRamdom\bin\Debug\ListaDeNumerosRamdom.exe.config
+C:\Users\karla\source\repos\ListaDeNumerosRamdom\ListaDeNumerosRamdom\bin\Debug\ListaDeNumerosRamdom.exe
+C:\Users\karla\source\repos\ListaDeNumerosRamdom\ListaDeNumerosRamdom\bin\Debug\ListaDeNumerosRamdom.pdb
+C:\Users\karla\source\repos\ListaDeNumerosRamdom\ListaDeNumerosRamdom\obj\Debug\ListaDeNumerosRamdom.csproj.AssemblyReference.cache
+C:\Users\karla\source\repos\ListaDeNumerosRamdom\ListaDeNumerosRamdom\obj\Debug\ListaDeNumerosRamdom.csproj.SuggestedBindingRedirects.cache
+C:\Users\karla\source\repos\ListaDeNumerosRamdom\ListaDeNumerosRamdom\obj\Debug\ListaDeNumerosRamdom.Form1.resources
+C:\Users\karla\source\repos\ListaDeNumerosRamdom\ListaDeNumerosRamdom\obj\Debug\ListaDeNumerosRamdom.Properties.Resources.resources
+C:\Users\karla\source\repos\ListaDeNumerosRamdom\ListaDeNumerosRamdom\obj\Debug\ListaDeNumerosRamdom.csproj.GenerateResource.cache
+C:\Users\karla\source\repos\ListaDeNumerosRamdom\ListaDeNumerosRamdom\obj\Debug\ListaDeNumerosRamdom.csproj.CoreCompileInputs.cache
+C:\Users\karla\source\repos\ListaDeNumerosRamdom\ListaDeNumerosRamdom\obj\Debug\ListaDeNumerosRamdom.exe
+C:\Users\karla\source\repos\ListaDeNumerosRamdom\ListaDeNumerosRamdom\obj\Debug\ListaDeNumerosRamdom.pdb
