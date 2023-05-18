@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\leyendaDia\leyendaDia\bin\Debug\leyendaDia.exe.config
+C:\Users\Alumno\source\repos\leyendaDia\leyendaDia\bin\Debug\leyendaDia.exe
+C:\Users\Alumno\source\repos\leyendaDia\leyendaDia\bin\Debug\leyendaDia.pdb
+C:\Users\Alumno\source\repos\leyendaDia\leyendaDia\obj\Debug\leyendaDia.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\leyendaDia\leyendaDia\obj\Debug\leyendaDia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\leyendaDia\leyendaDia\obj\Debug\leyendaDia.LeyendaFecha.resources
+C:\Users\Alumno\source\repos\leyendaDia\leyendaDia\obj\Debug\leyendaDia.Properties.Resources.resources
+C:\Users\Alumno\source\repos\leyendaDia\leyendaDia\obj\Debug\leyendaDia.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\leyendaDia\leyendaDia\obj\Debug\leyendaDia.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\leyendaDia\leyendaDia\obj\Debug\leyendaDia.exe
+C:\Users\Alumno\source\repos\leyendaDia\leyendaDia\obj\Debug\leyendaDia.pdb
