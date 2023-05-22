@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\NumerosImpares\NumerosImpares\bin\Debug\NumerosImpares.exe.config
+C:\Users\Alumno\source\repos\NumerosImpares\NumerosImpares\bin\Debug\NumerosImpares.exe
+C:\Users\Alumno\source\repos\NumerosImpares\NumerosImpares\bin\Debug\NumerosImpares.pdb
+C:\Users\Alumno\source\repos\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.Form1.resources
+C:\Users\Alumno\source\repos\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.Properties.Resources.resources
+C:\Users\Alumno\source\repos\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.exe
+C:\Users\Alumno\source\repos\NumerosImpares\NumerosImpares\obj\Debug\NumerosImpares.pdb

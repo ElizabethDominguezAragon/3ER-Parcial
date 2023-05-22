@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\GenerarTabla\GenerarTabla\bin\Debug\GenerarTabla.exe.config
+C:\Users\Alumno\source\repos\GenerarTabla\GenerarTabla\bin\Debug\GenerarTabla.exe
+C:\Users\Alumno\source\repos\GenerarTabla\GenerarTabla\bin\Debug\GenerarTabla.pdb
+C:\Users\Alumno\source\repos\GenerarTabla\GenerarTabla\obj\Debug\GenerarTabla.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\GenerarTabla\GenerarTabla\obj\Debug\GenerarTabla.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\GenerarTabla\GenerarTabla\obj\Debug\GenerarTabla.GENERARTABLE.resources
+C:\Users\Alumno\source\repos\GenerarTabla\GenerarTabla\obj\Debug\GenerarTabla.Properties.Resources.resources
+C:\Users\Alumno\source\repos\GenerarTabla\GenerarTabla\obj\Debug\GenerarTabla.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\GenerarTabla\GenerarTabla\obj\Debug\GenerarTabla.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\GenerarTabla\GenerarTabla\obj\Debug\GenerarTabla.exe
+C:\Users\Alumno\source\repos\GenerarTabla\GenerarTabla\obj\Debug\GenerarTabla.pdb
